@@ -11,7 +11,7 @@ class App < Sinatra::Base
 
   get '/friends' do
     # Write your code here!
-     @friends = ['Juang Clifford LOUIS', 'Harriet Tubman', 'Joan of Arc', 'Malala Yousafzai', 'Sojourner Truth']
+     @friends = ['Juang Clifford LOUIS', 'Jefferson PIERRE', 'Joan of Arc', 'Malala Yousafzai', 'Sojourner Truth']
 
   end
 end
